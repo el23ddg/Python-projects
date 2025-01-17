@@ -39,6 +39,8 @@ A group of projects which I am learning and building to understand and grasp bet
 #### - How to use the discord.py library to build and manage your bot.
 #### - Sending messages, responding to commands, and handling events.
 #### - Basic coding concepts like functions, libraries, and asynchronous programming.
+### My Bot - memeBot
+![Screenshot 2025-01-17 182649](https://github.com/user-attachments/assets/d2e46a7f-cf2d-49cd-9719-0678f359974b)
 ### Acknowledgments 🙌
 #### This project was inspired by CodeDex's guide, which makes learning Discord bot development accessible and fun. 
 
