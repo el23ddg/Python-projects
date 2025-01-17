@@ -27,3 +27,26 @@ A group of projects which I am learning and building to understand and grasp bet
 #### a) Change frame duration: Modify the duration parameter to speed up or slow down the animation.
 #### b) Change loop behavior: Set loop to 1 for a single loop or 0 for infinite looping.
 
+## 3. Meme_Generation_Bot.py - Build a Discord Bot with Python 🤖
+### Project Overview 📄
+#### This project is a step-by-step guide to creating your own custom Discord bot using Python. It leverages the discord.py library to allow you to interact with Discord’s API, enabling you to build bots for moderation, automation, games, and more.
+### Features ✨
+#### - Connects your bot to a Discord server.
+#### - Responds to commands sent in the chat.
+#### - Highly customizable to suit various use cases (e.g., moderation, fun commands, notifications).
+### What I Learnt 🧠
+#### - How to set up a Discord bot application on the Discord Developer Portal.
+#### - How to use the discord.py library to build and manage your bot.
+#### - Sending messages, responding to commands, and handling events.
+#### - Basic coding concepts like functions, libraries, and asynchronous programming.
+### Acknowledgments 🙌
+#### This project was inspired by CodeDex's guide, which makes learning Discord bot development accessible and fun. 
+
+
+
+
+
+
+
+
+
