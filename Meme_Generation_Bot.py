@@ -1,3 +1,5 @@
+# for this project you need to configure and build your bot in the Discord Developer Portal and also start a server where you can deploy the bot for use 
+# you can check out https://github.com/codedex-io/projects/blob/main/projects/build-a-discord-bot-with-python/bot.py from where I learnt the project and tried it out 
 import discord
 import requests
 import json
