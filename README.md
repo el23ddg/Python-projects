@@ -28,36 +28,36 @@ You can easily tweak the script for your needs:
 - Change loop behavior: Set loop to 1 for a single loop or 0 for infinite looping.
 
 ## 3. Meme_Generation_Bot.py - Build a Discord Bot with Python 🤖
-### Project Overview 📄
-#### This project is a step-by-step guide to creating your own custom Discord bot using Python. It leverages the discord.py library to allow you to interact with Discord’s API, enabling you to build bots for moderation, automation, games, and more.
-### Features ✨
-#### - Connects your bot to a Discord server.
-#### - Responds to commands sent in the chat.
-#### - Highly customizable to suit various use cases (e.g., moderation, fun commands, notifications).
-### What I Learnt 🧠
-#### - How to set up a Discord bot application on the Discord Developer Portal.
-#### - How to use the discord.py library to build and manage your bot.
-#### - Sending messages, responding to commands, and handling events.
-#### - Basic coding concepts like functions, libraries, and asynchronous programming.
-### My Bot - memeBot
+#### Project Overview 📄
+This project is a step-by-step guide to creating your own custom Discord bot using Python. It leverages the discord.py library to allow you to interact with Discord’s API, enabling you to build bots for moderation, automation, games, and more.
+#### Features ✨
+- Connects your bot to a Discord server.
+- Responds to commands sent in the chat.
+- Highly customizable to suit various use cases (e.g., moderation, fun commands, notifications).
+#### What I Learnt 🧠
+- How to set up a Discord bot application on the Discord Developer Portal.
+- How to use the discord.py library to build and manage your bot.
+- Sending messages, responding to commands, and handling events.
+- Basic coding concepts like functions, libraries, and asynchronous programming.
+#### My Bot - memeBot
 ![Screenshot 2025-01-17 182649](https://github.com/user-attachments/assets/d2e46a7f-cf2d-49cd-9719-0678f359974b)
-### Acknowledgments 🙌
-#### This project was inspired by CodeDex's guide, which makes learning Discord bot development accessible and fun. 
+#### Acknowledgments 🙌
+This project was inspired by CodeDex's guide, which makes learning Discord bot development accessible and fun. 
 
 ## 4. Dice_Rolling_Simulator.py 🎲
-### Project Overview 📄
-#### The Dice Rolling Simulator is a simple Python-based game that simulates the rolling of a six-sided die. It provides users with an interactive experience to roll a dice, view the result, and decide whether to roll again or exit the game. This project is perfect for beginners who want to learn Python concepts like loops, conditional statements, and random number generation.
-### Features ✨
-#### - Roll a virtual six-sided die.
-#### - Interactive gameplay with user inputs.
-#### - Simple, lightweight, and beginner-friendly.
-### Customization 🚀
-#### Here are some ways you can expand the project:
-#### a) Allow the user to select different types of dice (e.g., 4-sided, 8-sided, 20-sided).
-#### b) Add a scoring system to track results over multiple rolls.
-#### c) Create a graphical user interface (GUI) using libraries like tkinter or PyQt.
-#### d) Add sound effects when the dice is rolled.
-### Output looks like this
+#### Project Overview 📄
+The Dice Rolling Simulator is a simple Python-based game that simulates the rolling of a six-sided die. It provides users with an interactive experience to roll a dice, view the result, and decide whether to roll again or exit the game. This project is perfect for beginners who want to learn Python concepts like loops, conditional statements, and random number generation.
+#### Features ✨
+- Roll a virtual six-sided die.
+- Interactive gameplay with user inputs.
+- Simple, lightweight, and beginner-friendly.
+#### Customization 🚀
+Here are some ways you can expand the project:
+- Allow the user to select different types of dice (e.g., 4-sided, 8-sided, 20-sided).
+- Add a scoring system to track results over multiple rolls.
+- Create a graphical user interface (GUI) using libraries like tkinter or PyQt.
+- Add sound effects when the dice is rolled.
+#### Output looks like this
 ![dice game terminal](https://github.com/user-attachments/assets/a9bd72a2-1964-4427-b0a0-dc15a3fb8828)
 
 
