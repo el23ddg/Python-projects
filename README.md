@@ -81,12 +81,9 @@ Three lifelines:
 - Simulates advice from a friend.
 - The friend typically gives the correct answer with high confidence.
 #### Output terminal of the game
-![Screenshot 2025-01-18 095258](https://github.com/user-attachments/assets/7816f627-729c-486c-8b28-5549be0e18e5)
-![Screenshot 2025-01-18 095321](https://github.com/user-attachments/assets/b5411d69-0eae-4aed-8b08-319993f83918)
-![Screenshot 2025-01-18 095351](https://github.com/user-attachments/assets/c5e91473-b5f3-430b-a331-6022d6af8b53)
-
-
-
+![Screenshot 2025-01-18 095258](https://github.com/user-attachments/assets/7d7120f4-f48a-4581-8e2f-60e33636187c)
+![Screenshot 2025-01-18 095321](https://github.com/user-attachments/assets/202973d3-c212-49a9-b3e0-7d5dd9e38d10)
+![Screenshot 2025-01-18 095351](https://github.com/user-attachments/assets/27edfc4d-ae29-48df-9abe-2d3c91e15ea1)
 
 
 
