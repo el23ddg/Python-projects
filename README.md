@@ -44,6 +44,19 @@ A group of projects which I am learning and building to understand and grasp bet
 ### Acknowledgments 🙌
 #### This project was inspired by CodeDex's guide, which makes learning Discord bot development accessible and fun. 
 
+## 4. Dice_Rolling_Simulator.py 🎲
+### Project Overview 📄
+#### The Dice Rolling Simulator is a simple Python-based game that simulates the rolling of a six-sided die. It provides users with an interactive experience to roll a dice, view the result, and decide whether to roll again or exit the game. This project is perfect for beginners who want to learn Python concepts like loops, conditional statements, and random number generation.
+### Features ✨
+#### - Roll a virtual six-sided die.
+#### - Interactive gameplay with user inputs.
+#### - Simple, lightweight, and beginner-friendly.
+### Customization 🚀
+#### Here are some ways you can expand the project:
+#### a) Allow the user to select different types of dice (e.g., 4-sided, 8-sided, 20-sided).
+#### b) Add a scoring system to track results over multiple rolls.
+#### c) Create a graphical user interface (GUI) using libraries like tkinter or PyQt.
+#### d) Add sound effects when the dice is rolled.
 
 
 
