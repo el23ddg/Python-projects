@@ -2,14 +2,14 @@
 A group of projects which I am learning and building to understand and grasp better concepts. 
 
 ## 1. Rock_Paper_Scissors_Game.py
-### Project Brief 📄
+#### Project Brief 📄
 ##### This is a simple command-line-based Python program where the user can play a round of the classic game Rock, Paper, Scissors against the computer. It’s a fun way to practice Python programming, especially working with user input, random number generation, and control flow.
-### Rules of the Game 📜
+#### Rules of the Game 📜
 ##### a) Rock (✊) beats Scissors (✌).
 ##### b) Scissors (✌) beat Paper (✋).
 ##### c) Paper (✋) beats Rock (✊).
 ##### d) If both the user and the computer choose the same item, it’s a tie.
-### Features ✨
+#### Features ✨
 ##### - Allows the user to choose between Rock, Paper, and Scissors by entering a number (1, 2, or 3).
 ##### - The computer randomly selects its choice using Python's random.randint() function.
 ##### - Displays the user's choice and the computer's choice with corresponding emojis.
