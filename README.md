@@ -73,17 +73,17 @@ Three lifelines:
 - Input validation: Ensures valid user input for questions and lifeline selection.
 #### How the lifelines work
 1. 50-50
-Eliminates two incorrect answers, leaving the correct answer and one random incorrect option.
+- Eliminates two incorrect answers, leaving the correct answer and one random incorrect option.
 2. Ask the Audience
-Simulates audience voting with percentages.
-The correct answer has the majority of votes.
+- Simulates audience voting with percentages.
+- The correct answer has the majority of votes.
 3. Phone a Friend
-Simulates advice from a friend.
-The friend typically gives the correct answer with high confidence.
-
-
-
-
+- Simulates advice from a friend.
+- The friend typically gives the correct answer with high confidence.
+#### Output terminal of the game
+![Screenshot 2025-01-18 095258](https://github.com/user-attachments/assets/7816f627-729c-486c-8b28-5549be0e18e5)
+![Screenshot 2025-01-18 095321](https://github.com/user-attachments/assets/b5411d69-0eae-4aed-8b08-319993f83918)
+![Screenshot 2025-01-18 095351](https://github.com/user-attachments/assets/c5e91473-b5f3-430b-a331-6022d6af8b53)
 
 
 
