@@ -57,6 +57,8 @@ A group of projects which I am learning and building to understand and grasp bet
 #### b) Add a scoring system to track results over multiple rolls.
 #### c) Create a graphical user interface (GUI) using libraries like tkinter or PyQt.
 #### d) Add sound effects when the dice is rolled.
+### Output looks like this
+![dice game terminal](https://github.com/user-attachments/assets/a9bd72a2-1964-4427-b0a0-dc15a3fb8828)
 
 
 
