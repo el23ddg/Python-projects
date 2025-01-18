@@ -16,16 +16,16 @@ This is a simple command-line-based Python program where the user can play a rou
 - Clearly determines and announces the winner or if it’s a tie.
 
 ## 2. GIF.py - Image to GIF Converter 🖼️➡️🎞️
-### Project Overview 📄
-#### This project demonstrates how to convert multiple image files into an animated GIF using Python and the imageio library. The provided script takes a sequence of images, combines them, and saves the result as an animated GIF. It's a simple yet effective way to bring static images to life!
-### Features ✨
-#### - Converts a sequence of 2 or more images into an animated GIF.
-#### - Allows customization of GIF properties, such as frame duration and loop behavior.
-#### - Lightweight and straightforward, powered by Python's imageio library.
-### Customization 🚀
-#### You can easily tweak the script for your needs:
-#### a) Change frame duration: Modify the duration parameter to speed up or slow down the animation.
-#### b) Change loop behavior: Set loop to 1 for a single loop or 0 for infinite looping.
+#### Project Overview 📄
+This project demonstrates how to convert multiple image files into an animated GIF using Python and the imageio library. The provided script takes a sequence of images, combines them, and saves the result as an animated GIF. It's a simple yet effective way to bring static images to life!
+#### Features ✨
+- Converts a sequence of 2 or more images into an animated GIF.
+- Allows customization of GIF properties, such as frame duration and loop behavior.
+- Lightweight and straightforward, powered by Python's imageio library.
+#### Customization 🚀
+You can easily tweak the script for your needs:
+- Change frame duration: Modify the duration parameter to speed up or slow down the animation.
+- Change loop behavior: Set loop to 1 for a single loop or 0 for infinite looping.
 
 ## 3. Meme_Generation_Bot.py - Build a Discord Bot with Python 🤖
 ### Project Overview 📄
