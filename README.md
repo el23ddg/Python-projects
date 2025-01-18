@@ -60,6 +60,34 @@ Here are some ways you can expand the project:
 #### Output looks like this
 ![dice game terminal](https://github.com/user-attachments/assets/a9bd72a2-1964-4427-b0a0-dc15a3fb8828)
 
+## 5. Who_wants_to_be_a_Millionare.py
+#### Project Overview 📄
+This is a Python-based console game inspired by the popular TV show "Who Wants to Be a Millionaire". Players answer a series of multiple-choice questions to win increasing amounts of money, with lifelines available to help along the way.
+#### Features ✨
+Multiple-choice questions: Players answer questions with four options (A, B, C, or D).
+Three lifelines:
+- 50-50: Eliminates two incorrect options.
+- Ask the Audience: Simulates audience polling with percentage-based voting.
+- Phone a Friend: Simulates a friend's advice, favoring the correct answer.
+- Incremental rewards: Players win money for each correct answer, with the total displayed at the end.
+- Input validation: Ensures valid user input for questions and lifeline selection.
+#### How the lifelines work
+1. 50-50
+Eliminates two incorrect answers, leaving the correct answer and one random incorrect option.
+2. Ask the Audience
+Simulates audience voting with percentages.
+The correct answer has the majority of votes.
+3. Phone a Friend
+Simulates advice from a friend.
+The friend typically gives the correct answer with high confidence.
+
+
+
+
+
+
+
+
 
 
 
