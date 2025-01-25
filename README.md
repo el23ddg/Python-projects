@@ -100,6 +100,28 @@ b) Background Color: White
 ## 7. GEN AI projects
 #### A group of beginner gen ai projects which will equip me for future projects. I am learning tokenization, text classification, spell check, machine translation and naive bayes to start with. This will help me to build the foundation for better projects.
 
+## 8. Text Based Treasure Hunt Game Project
+#### Project Overview 📄
+Welcome to the Text-Based Treasure Hunt Game, a Python-based interactive game where you explore a mysterious world, face enemies, collect items, and aim to find the ultimate treasure! 💎 This project combines a fun gameplay experience with Python programming concepts such as dictionaries, loops, conditionals, and user input handling.
+#### Features ✨
+Explore 5 Unique Rooms:
+- Traverse through a Hall, Kitchen, Dungeon, Armory, and the Treasure Room.
+- Each room has its own description, items, and challenges. 🗺️
+Combat System:
+- Fight enemies like the Goblin and the Skeleton Warrior.
+- Use weapons like the Knife to increase your damage.
+- Strategic gameplay: Choose to attack or run from battles! ⚔️
+Score System:
+- Earn points by defeating enemies (+20 points) and collecting items (+10 points). 🏆
+- Your score reflects your progress and achievements in the game.
+Health System:
+- Start with 100 health points, which decreases during battles.
+- Collect items like the Shield to increase your health. ❤️
+Treasure Hunt:
+- Your ultimate goal is to find the Treasure Room and claim the glittering treasure. 🪙
+- Winning the game displays your final score. 🎉
+
+
 
 
 
