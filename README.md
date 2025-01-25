@@ -120,7 +120,12 @@ Welcome to the Text-Based Treasure Hunt Game, a Python-based interactive game wh
 ##### Treasure Hunt:
 - Your ultimate goal is to find the Treasure Room and claim the glittering treasure. 🪙
 - Winning the game displays your final score. 🎉
-
+#### Gameplay instructions📜 
+- Navigate through the rooms using commands like north, south, east, or west.
+- Use take <item> to collect items in the room (e.g., take knife).
+- Use fight to engage in combat with enemies.
+- Use inventory to check your collected items.
+- Use quit to exit the game.
 
 
 
