@@ -26,6 +26,8 @@ This project demonstrates how to convert multiple image files into an animated G
 You can easily tweak the script for your needs:
 - Change frame duration: Modify the duration parameter to speed up or slow down the animation.
 - Change loop behavior: Set loop to 1 for a single loop or 0 for infinite looping.
+#### Output
+![dinodancer](https://github.com/user-attachments/assets/41e19d31-a859-47ba-8206-008a9d46c0d8)
 
 ## 3. Meme_Generation_Bot.py - Build a Discord Bot with Python 🤖
 #### Project Overview 📄
