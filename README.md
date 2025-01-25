@@ -89,12 +89,12 @@ This Python program generates a QR code for a given website link and saves it as
 #### How it works
 - The program uses the qrcode library to create the QR code.
 - The QR code is styled with:
-a. Version: 1 (determines the complexity and size of the QR code).
-b. Box Size: 5 (defines the size of each square in the QR grid).
-c. Border: 5 (sets the width of the border around the QR code).
+a) Version: 1 (determines the complexity and size of the QR code).
+b) Box Size: 5 (defines the size of each square in the QR grid).
+c) Border: 5 (sets the width of the border around the QR code).
 - The QR code is rendered as an image with:
-a. Fill Color: Black
-b. Background Color: White
+a) Fill Color: Black
+b) Background Color: White
 Finally, the QR code is saved as a .png image file.
 
 
