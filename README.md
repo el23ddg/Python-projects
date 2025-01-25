@@ -95,7 +95,10 @@ c) Border: 5 (sets the width of the border around the QR code).
 - The QR code is rendered as an image with:
 a) Fill Color: Black
 b) Background Color: White
-Finally, the QR code is saved as a .png image file.
+- Finally, the QR code is saved as a .png image file.
+
+## 7. GEN AI projects
+#### A group of beginner gen ai projects which will equip me for future projects. I am learning tokenization, text classification, spell check, machine translation and naive bayes to start with. This will help me to build the foundation for better projects.
 
 
 
