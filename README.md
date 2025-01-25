@@ -82,10 +82,20 @@ Three lifelines:
 3. Phone a Friend
 - Simulates advice from a friend.
 - The friend typically gives the correct answer with high confidence.
-#### Output terminal of the game
-![Screenshot 2025-01-18 095258](https://github.com/user-attachments/assets/7d7120f4-f48a-4581-8e2f-60e33636187c)
-![Screenshot 2025-01-18 095321](https://github.com/user-attachments/assets/202973d3-c212-49a9-b3e0-7d5dd9e38d10)
-![Screenshot 2025-01-18 095351](https://github.com/user-attachments/assets/27edfc4d-ae29-48df-9abe-2d3c91e15ea1)
+
+## 6. QR Code Generator project
+#### Project Overview 📄
+This Python program generates a QR code for a given website link and saves it as an image file (youtube_qr.png). You can scan this QR code with a smartphone or QR code reader to instantly access the encoded URL.
+#### How it works
+- The program uses the qrcode library to create the QR code.
+- The QR code is styled with:
+Version: 1 (determines the complexity and size of the QR code).
+Box Size: 5 (defines the size of each square in the QR grid).
+Border: 5 (sets the width of the border around the QR code).
+- The QR code is rendered as an image with:
+Fill Color: Black
+Background Color: White
+Finally, the QR code is saved as a .png image file.
 
 
 
