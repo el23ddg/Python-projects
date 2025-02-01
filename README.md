@@ -136,12 +136,12 @@ A classic Snake Game built with Python and Pygame, featuring single-player and m
 - Cool Sound Effects – Get an immersive experience with in-game sounds! 🔊
 - Simple Controls – Easy and intuitive gameplay! 🎮
 #### 🎮 How to Play
-Single Player Controls
+1) Single Player Controls
 - ▶️ Arrow Keys – Move Up, Down, Left, Right
-Multiplayer Controls
+2) Multiplayer Controls
 - 👤 Player 1 (Green Snake) – Use Arrow Keys ⬆️⬇️⬅️➡️
 - 👤 Player 2 (Blue Snake) – Use WASD 🆙⬇️⬅️➡️
-🎯 Objective: Eat the red fruit 🍎 to grow longer and score points. Don't crash into yourself or walls!
+3) 🎯 Objective: Eat the red fruit 🍎 to grow longer and score points. Don't crash into yourself or walls!
 
 
 
