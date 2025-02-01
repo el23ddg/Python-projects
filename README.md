@@ -126,7 +126,22 @@ Welcome to the Text-Based Treasure Hunt Game, a Python-based interactive game wh
 - Use fight to engage in combat with enemies.
 - Use inventory to check your collected items.
 - Use quit to exit the game.
-
+## 9. 🐍 Snake Game 🎮
+#### Project Overview 📄
+A classic Snake Game built with Python and Pygame, featuring single-player and multiplayer modes! 
+#### 🚀 Features
+- Single Player Mode – Play solo and beat your high score! 🎯
+- Multiplayer Mode – Challenge a friend in a head-to-head match! 🆚
+- Power-Ups – Speed boost & freeze opponent for extra fun! ❄️⚡
+- Cool Sound Effects – Get an immersive experience with in-game sounds! 🔊
+- Simple Controls – Easy and intuitive gameplay! 🎮
+#### 🎮 How to Play
+Single Player Controls
+- ▶️ Arrow Keys – Move Up, Down, Left, Right
+Multiplayer Controls
+- 👤 Player 1 (Green Snake) – Use Arrow Keys ⬆️⬇️⬅️➡️
+- 👤 Player 2 (Blue Snake) – Use WASD 🆙⬇️⬅️➡️
+🎯 Objective: Eat the red fruit 🍎 to grow longer and score points. Don't crash into yourself or walls!
 
 
 
